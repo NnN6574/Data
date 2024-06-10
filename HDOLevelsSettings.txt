@@ -2,13 +2,13 @@
   "_data": [
     {
       "_id": 1,
-      "_imageUrl": "",
+      "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level1.jpg?raw=true",
       "_imageName": "level 1",
       "_counter": 5
     },
     {
       "_id": 2,
-      "_imageUrl": "",
+      "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
       "_imageName": "level 2",
       "_counter": 5
     }
