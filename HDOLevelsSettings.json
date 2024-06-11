@@ -9,7 +9,7 @@
     {
       "_id": 2,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
-      "_imageName": "level 9",
+      "_imageName": "level 2",
       "_counter": 5
     },
     {
@@ -19,81 +19,81 @@
       "_counter": 7
     },
     {
-      "_id": 2,
+      "_id": 4,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
-      "_imageName": "level 9",
+      "_imageName": "level 4",
       "_counter": 5
     },
     {
-      "_id": 3,
+      "_id": 5,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level3.jpg?raw=true",
-      "_imageName": "level 3",
+      "_imageName": "level 5",
       "_counter": 7
     },
     {
-      "_id": 1,
+      "_id": 6,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level1.jpg?raw=true",
-      "_imageName": "level 1",
+      "_imageName": "level 6",
       "_counter": 5
     },
     {
-      "_id": 2,
+      "_id": 7,
+      "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
+      "_imageName": "level 7",
+      "_counter": 5
+    },
+    {
+      "_id": 8,
+      "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level3.jpg?raw=true",
+      "_imageName": "level 8",
+      "_counter": 7
+    },
+    {
+      "_id": 9,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
       "_imageName": "level 9",
       "_counter": 5
     },
     {
-      "_id": 3,
+      "_id": 10,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level3.jpg?raw=true",
-      "_imageName": "level 3",
+      "_imageName": "level 10",
       "_counter": 7
     },
     {
-      "_id": 2,
-      "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
-      "_imageName": "level 9",
-      "_counter": 5
-    },
-    {
-      "_id": 3,
-      "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level3.jpg?raw=true",
-      "_imageName": "level 3",
-      "_counter": 7
-    },
-    {
-      "_id": 1,
+      "_id": 11,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level1.jpg?raw=true",
-      "_imageName": "level 1",
+      "_imageName": "level 11",
       "_counter": 5
     },
     {
-      "_id": 2,
+      "_id": 12,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
-      "_imageName": "level 9",
+      "_imageName": "level 12",
       "_counter": 5
     },
     {
-      "_id": 3,
+      "_id": 13,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level3.jpg?raw=true",
-      "_imageName": "level 3",
+      "_imageName": "level 13",
       "_counter": 7
     },
     {
-      "_id": 2,
+      "_id": 14,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level2.jpg?raw=true",
-      "_imageName": "level 9",
+      "_imageName": "level 14",
       "_counter": 5
     },
     {
-      "_id": 3,
+      "_id": 15,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level3.jpg?raw=true",
-      "_imageName": "level 3",
+      "_imageName": "level 15",
       "_counter": 7
     },
     {
-      "_id": 1,
+      "_id": 16,
       "_imageUrl": "https://github.com/NnN6574/Data/blob/main/level1.jpg?raw=true",
-      "_imageName": "level 1",
+      "_imageName": "level 16",
       "_counter": 5
     }
   ]
